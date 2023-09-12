@@ -1,7 +1,7 @@
 package models
 
 import (
-	"fetch-be-assignment/common"
+	"fetch-be/common"
 	"strconv"
 )
 

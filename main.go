@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fetch-be-assignment/routes" // Routes
+	"fetch-be/routes" // Routes
 
 	"github.com/gin-gonic/gin" // Gin web framework
 )

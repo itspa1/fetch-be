@@ -1,4 +1,4 @@
-module fetch-be-assignment
+module fetch-be
 
 go 1.20
 

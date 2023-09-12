@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"fetch-be-assignment/controllers" // Controllers
+	"fetch-be/controllers" // Controllers
 
 	"github.com/gin-gonic/gin"
 )

@@ -1,9 +1,9 @@
 package controllers
 
 import (
-	"fetch-be-assignment/common"
-	"fetch-be-assignment/models"
-	"fetch-be-assignment/services"
+	"fetch-be/common"
+	"fetch-be/models"
+	"fetch-be/services"
 	"fmt"
 
 	"github.com/gin-gonic/gin"

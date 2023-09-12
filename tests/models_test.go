@@ -1,7 +1,7 @@
 package tests
 
 import (
-	"fetch-be-assignment/models"
+	"fetch-be/models"
 	"testing"
 )
 

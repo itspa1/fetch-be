@@ -1,8 +1,8 @@
 package tests
 
 import (
-	"fetch-be-assignment/models"
-	"fetch-be-assignment/services"
+	"fetch-be/models"
+	"fetch-be/services"
 	"testing"
 	"time"
 )

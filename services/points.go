@@ -1,7 +1,7 @@
 package services
 
 import (
-	"fetch-be-assignment/models"
+	"fetch-be/models"
 	"math"
 	"strings"
 )

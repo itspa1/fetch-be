@@ -2,7 +2,7 @@ package tests
 
 import (
 	"encoding/json"
-	"fetch-be-assignment/routes"
+	"fetch-be/routes"
 	"io"
 	"strings"
 
